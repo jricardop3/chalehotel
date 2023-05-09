@@ -77,3 +77,30 @@ a.reserva {
 	padding: 5px 10px;
 	float: right;
 }
+/*********************************************************
+*********** Barra de navegação vertical **/
+#menu {
+	margin-top: 15px;
+}
+ul {
+	list-style: none;
+}
+ul#navegacao {
+	float: left;
+}
+ul#navegacao a {
+	text-transform: uppercase;
+	font-size: 0.8em;
+	color: #6e672c;
+	line-height: 30px;
+	
+}
+ul#navegacao a:hover {
+	background: #fdf6be;
+	padding: 5px ;
+}
+.depoimento {
+	width: 226px;
+	height: 164px;
+	float: right;
+}
